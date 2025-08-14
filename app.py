@@ -148,3 +148,8 @@ if 'chol' in df.columns:
     ax.set_ylabel("Count")
     st.pyplot(fig)
     
+st.markdown("---\nThis app was created using Streamlit for interactive data visualization and analysis of heart attack patient data. The dataset is analyzed to provide insights into various factors related to heart disease, including age")
+st.markdown("and cholesterol levels, and to visualize the relationships between different features.")
+st.markdown("Feel free to explore the data and the visualizations provided in this app.")
+st.markdown("---")
+st.markdown("Created by [Susan Kihara]")
